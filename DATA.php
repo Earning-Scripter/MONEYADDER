@@ -80,12 +80,12 @@ alert("NOTE : - Please Join Our Channel To Work Script Othore Wise Not Work !");
 ';
   
 }
-if (isset($_GET['submit'])){
+  (isset($_GET['submit'])){
 	$ur =$_GET['ur'];
 		$ho =$_GET['ho'];
 		 $da =$_GET['da'];
 		 
-	echo "<meta http-equiv='refresh' content=;' />";
+	"<meta http-equiv='refresh' content=;' />";
 	
 	$url=''.$ur.'';
 
@@ -112,11 +112,11 @@ $ch = curl_init();
   curl_close ($ch);
   
 
-echo"<div class='success'><center>
+"<div class='success'><center>
 <font color='yellow'size='5'><hr>Message:-$output<hr>";
 
 	
-		echo "<meta http-equiv='refresh' content=;' />";
+		 "<meta http-equiv='refresh' content=;' />";
 	
 }
 
